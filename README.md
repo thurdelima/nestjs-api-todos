@@ -4,7 +4,7 @@ Api created by NestJS with operations crud.
 
 ## 💡 Project and endpoints
 
-Import file called endpoints_nest_jwt.json in your insomnia or postman.
+Import file called endpoints_nestjs_todos.json in your insomnia or postman.
 
 <div align="center" >
   <img src="./todos_api.gif">
